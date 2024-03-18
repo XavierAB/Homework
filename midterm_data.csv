@@ -1,0 +1,9 @@
+Cust_ID,Age_Group,Experience,Organic,Previous_Purchases,Will_Buy
+1,Young,2,Y,5,Y
+2,Middle,10,N,8,Y
+3,Senior,15,Y,12,Y
+4,Young,0,N,2,N
+5,Middle,7,Y,6,N
+6,Senior,20,N,10,Y
+7,Young,1,Y,3,N
+8,Middle,8,N,4,N
